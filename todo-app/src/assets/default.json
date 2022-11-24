@@ -1,0 +1,40 @@
+{
+  "Boards": [
+    {
+      "id": 0,
+      "title": "Pending",
+      "desc": "Click me to add new task!",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Sample task",
+          "desc": "Click me to move me further"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "In progress",
+      "desc": "Work in progress",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Sample task",
+          "desc": "Rightclick me to edit, delete or move me back"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Done",
+      "desc": "Nice! Guess that one's out of the way.",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Sample task",
+          "desc": "This app uses cookies to store tasks"
+        }
+      ]
+    }
+  ]
+}
