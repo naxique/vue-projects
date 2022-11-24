@@ -21,12 +21,6 @@ import TaskModal from './TaskModal.vue'
 import VueCookies from 'vue-cookies'
 import defaultData from '../assets/default.json'
 
-
-// TODO:
-// 3. Try to fix shit with griding when there's a lot of tasks
-// 4. Try to figure out how to animate any moving
-// 5. Look around code and comment everything + fix shit i don't like
-
 export default {
   name: 'TodoApp', 
   components: { TodoBoard, TaskModal },
